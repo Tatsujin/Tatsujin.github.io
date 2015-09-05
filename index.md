@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome To a world called DevOps! *whipcrack*
+title: Welcome to a World Called DevOps! *whipcrack*
 ---
 {% include JB/setup %}
 
